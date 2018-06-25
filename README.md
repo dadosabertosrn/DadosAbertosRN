@@ -23,6 +23,7 @@ Lista de projetos desenvolvidos por membros do grupo com foco em dados abertos e
 
 Lista de projetos desenvolvidos no RN com foco em dados abertos e/ou controle social
 
+PotyBus > Mobilidade > http://www.potybus.com.br/
 Fala Parnamirim! > Controle Social > https://play.google.com/store/apps/details?id=br.com.falaparnamirim.app
 
 ## Grupos semelhantes
