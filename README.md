@@ -23,4 +23,4 @@ Fala Parnamirim! > Controle Social > https://play.google.com/store/apps/details?
 Canal no Telegram (https://t.me/dadosabertos)
 
 ## Contribuir
-Crie um novo Issue ou Pull Request com a url que deseja adicionar.
+Crie um novo [Issue](https://github.com/dados-abertos-rn/DadosAbertosRN/issues) ou [Pull Request](https://github.com/dados-abertos-rn/DadosAbertosRN/pulls) com a url que deseja adicionar.
