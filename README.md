@@ -28,6 +28,12 @@ PotyBus > Mobilidade > http://www.potybus.com.br/
 
 Fala Parnamirim! > Controle Social > https://play.google.com/store/apps/details?id=br.com.falaparnamirim.app
 
+## Eventos
+
+_Lista de eventos realizados voltados para dados abertos e/ou controle social no estado ou cidades do Rio Grande do Norte_
+_Para divulgação de novos eventos, divulgar no https://t.me/agendatirn (solicitar inclusão no https://t.me/potilivre)_
+
+
 ## Produção acadêmica
 
 _Lista de produções acadêmicas voltada para dados abertos e/ou controle social no estado ou cidades do Rio Grande do Norte_
