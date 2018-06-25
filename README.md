@@ -1,6 +1,6 @@
 # Dados Abertos .RN
 
-# Sobre o grupo
+## Sobre o grupo
 
 Grupo de discussão sobre o ecossistema de dados abertos no estado do Rio Grande do Norte
 Canal oficial no Telegram (https://t.me/dadosabertosrn)
