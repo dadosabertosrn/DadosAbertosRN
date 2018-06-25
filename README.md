@@ -10,6 +10,10 @@ Seguimos o seguinte código de conduta (https://github.com/brazil-it-groups/code
 
 ## Projetos criado pela comunidade
 
+Lista de projetos desenvolvidos por membros do grupo com foco em dados abertos e/ou controle social
+
 ## Projetos com foco no Estado e Cidades do RN
+
+Lista de projetos desenvolvidos no RN com foco em dados abertos e/ou controle social
 
 Fala Parnamirim! > Controle Social > https://play.google.com/store/apps/details?id=br.com.falaparnamirim.app
