@@ -8,6 +8,13 @@ Canal oficial no Telegram (https://t.me/dadosabertosrn)
 ## Regras
 Seguimos o seguinte código de conduta (https://github.com/brazil-it-groups/code-of-conduct)
 
+## Portais de Dados Abertos
+
+Lista de portais de dados abertos do RN
+
+Dados Abertos de Natal > http://dados.natal.br/
+
+
 ## Projetos criado pela comunidade
 
 Lista de projetos desenvolvidos por membros do grupo com foco em dados abertos e/ou controle social
