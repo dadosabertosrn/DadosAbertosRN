@@ -28,6 +28,10 @@ PotyBus > Mobilidade > http://www.potybus.com.br/
 
 Fala Parnamirim! > Controle Social > https://play.google.com/store/apps/details?id=br.com.falaparnamirim.app
 
+## Produção acadêmica
+
+_Lista de produções acadêmicas voltada para dados abertos e/ou controle social no estado ou cidades do Rio Grande do Norte_
+
 ## Grupos semelhantes
 
 Canal no Telegram (https://t.me/dadosabertos)
