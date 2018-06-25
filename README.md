@@ -11,18 +11,18 @@ Seguimos o seguinte código de conduta (https://github.com/brazil-it-groups/code
 
 ## Portais de Dados Abertos
 
-Lista de portais de dados abertos do RN
+_Lista de portais de dados abertos do RN_
 
 Dados Abertos de Natal > http://dados.natal.br/
 
 
 ## Projetos criado pela comunidade
 
-Lista de projetos desenvolvidos por membros do grupo com foco em dados abertos e/ou controle social
+_Lista de projetos desenvolvidos por membros do grupo com foco em dados abertos e/ou controle social_
 
 ## Projetos com foco no Estado e Cidades do RN
 
-Lista de projetos desenvolvidos no RN com foco em dados abertos e/ou controle social
+_Lista de projetos desenvolvidos no RN com foco em dados abertos e/ou controle social_
 
 PotyBus > Mobilidade > http://www.potybus.com.br/
 
