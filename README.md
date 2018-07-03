@@ -5,6 +5,7 @@
 Grupo de discussão sobre o ecossistema de dados abertos e controle social no estado do Rio Grande do Norte.
 
 Canal oficial no Telegram (https://t.me/dadosabertosrn)
+Manifesto (em construção) > 
 
 ## Regras
 Seguimos o seguinte código de conduta (https://github.com/brazil-it-groups/code-of-conduct)
@@ -47,6 +48,13 @@ _Lista de produções acadêmicas voltada para dados abertos e/ou controle socia
 * Processo Automatizado de ETL para Dados Abertos: Um Estudo de Caso do SUAP e CKAN > https://www.researchgate.net/publication/321171512_Processo_Automatizado_de_ETL_para_Dados_Abertos_Um_Estudo_de_Caso_do_SUAP_e_CKAN
 * A Estratégia para Desenvolvimento do Portal de Dados Abertos da Cidade de Natal > http://smartmetropolis.imd.ufrn.br/workshops/2016/papers/ST2-5.pdf
 * Portal de Dados Abertos da Prefeitura do Natal > http://smartmetropolis.imd.ufrn.br/wp-content/uploads/2017/03/RT3-WP5-middleware-parte3.pdf
+
+## Conselhos de Transparência Pública e Combate à Corrupção
+
+* GO	> http://www.transparencia.go.gov.br/portaldatransparencia/institucional/conselho-de-transparencia-publica-e-combate-a-corrupcao
+* CGU	> http://www.cgu.gov.br/assuntos/transparencia-publica/conselho-da-transparencia
+* PB	> http://transparencia.pb.gov.br/conselhos-estaduais/ctpcc
+* ES	> https://secont.es.gov.br/conselho-de-transparencia
 
 ## Grupos semelhantes
 
