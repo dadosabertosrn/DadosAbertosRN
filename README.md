@@ -6,7 +6,7 @@ Grupo de discussão sobre o ecossistema de dados abertos e controle social no es
 
 Canal oficial no Telegram (https://t.me/dadosabertosrn)
 
-Manifesto (em construção) > DadosAbertosRN/Manifesto sobre Dados Abertos no Rio Grande do Norte
+Manifesto (em construção) > https://github.com/dados-abertos-rn/DadosAbertosRN/blob/master/ManifestoDadosAbertosRN.md
 
 ## Regras
 Seguimos o seguinte código de conduta (https://github.com/brazil-it-groups/code-of-conduct)
