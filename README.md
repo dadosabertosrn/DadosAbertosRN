@@ -38,17 +38,25 @@ _Lista de eventos realizados voltados para dados abertos e/ou controle social no
 _Para divulgação de novos eventos, divulgar no https://t.me/agendatirn (solicitar inclusão no https://t.me/potilivre)_
 
 * Cerveja com Dados - Natal
+
 URL: https://escoladedados.org/2018/06/25/cerveja-com-dados-chega-a-natal-em-julho/
+
 Videos: 
+
 Palestras: 
 
 * Lançamento do Índice de Dados Abertos de Natal
+
 URL: http://www.tce.rn.gov.br/Noticias/NoticiaDetalhada/3602
+
 Palestras: http://www.labgov.com.br/arquivos
 
 * Open Data Day Natal 2018 
+
 URL: http://sigeventos.ufrn.br/eventos/public/evento/opendataday2018/
+
 Videos: https://www.youtube.com/watch?v=hOaZ1NRauuc&list=PLGGmw0KAzihA9816hShgOYGjsrbKWWRR1
+
 Palestras: http://sigeventos.ufrn.br/eventos/public/evento/opendataday2018/documentos/view
 
 ## Produção acadêmica
