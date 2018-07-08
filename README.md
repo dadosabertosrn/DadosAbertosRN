@@ -14,13 +14,17 @@ Seguimos o seguinte código de conduta (https://github.com/brazil-it-groups/code
 ## Portais de Dados Abertos
 _Lista de portais de dados abertos do RN_
 
-Dados Abertos de Natal > http://dados.natal.br/
+* Dados Abertos de Natal > http://dados.natal.br/
+* Dados Abertos da UFRN > http://dados.ufrn.br/
+* Dados Abertos do IFRN > https://dados.ifrn.edu.br/
+* Dados Abertos da UFERSA > http://dadosabertos.ufersa.edu.br/
 
 ## Plano de Dados Abertos
 _Lista dos planos de dados abertos do RN_
 
 * PDA UFRN (2016-2018) > http://www.ufrn.br/resources/documentos/planodedadosabertos/Plano-PDA-7out2016.pdf
 * PDA IFRN (2017-2019) > http://portal.ifrn.edu.br/conselhos/consup/resolucoes/2017/resolucao-no-21-2017/at_download/file
+* PDA UFERSA (2016-2018) > https://documentos.ufersa.edu.br/wp-content/uploads/sites/79/2016/11/PDA_PLANO_DE_DADOS_ABERTOS-UFERSA-2016-2018-1.pdf
 
 
 ## Projetos de dados abertos e/ou controle social com foco no Estado e/ou Cidades do RN ou criados pela comunidade
