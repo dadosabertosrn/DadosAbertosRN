@@ -23,7 +23,6 @@ _Lista de portais de dados abertos do RN_
 * Dados Abertos da UFERSA > http://dadosabertos.ufersa.edu.br/
 
 ### Câmaras Municipais
-* CM Severiano Melo > https://www.severianomelo.rn.leg.br/transparencia/dados-abertos
 
 ## Plano de Dados Abertos
 _Lista dos planos de dados abertos do RN_
