@@ -81,7 +81,9 @@ _Lista de produções acadêmicas voltada para dados abertos e/ou controle socia
 
 ## Grupos semelhantes
 
-Canal no Telegram (https://t.me/dadosabertos)
+* Canal no Telegram (https://t.me/dadosabertos)
+* Canal no Whatsapp (https://chat.whatsapp.com/L2QYVTwjViJ9BOU3hZSt7M)
+* Canal no Facebook (https://www.facebook.com/groups/dadosabertos/)
 
 ## Contribuir
 Crie um novo [Issue](https://github.com/dados-abertos-rn/DadosAbertosRN/issues) ou [Pull Request](https://github.com/dados-abertos-rn/DadosAbertosRN/pulls) com a url que deseja adicionar.
