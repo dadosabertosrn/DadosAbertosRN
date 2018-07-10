@@ -54,6 +54,8 @@ Videos: https://www.youtube.com/playlist?list=PLLxONs9vR9TEEfaC-yZKbsYAQBoIpoc2d
 
 Palestras: 
 
+Notícias: http://www.brechando.com/2018/07/como-foi-a-primeira-edicao-do-cerveja-com-dados-em-natal/ ; http://www.brechando.com/2018/06/vamos-discutir-jornalismo-com-cerveja-em-natal/
+
 * Lançamento do Índice de Dados Abertos de Natal (18/05/2018)
 
 URL: http://www.tce.rn.gov.br/Noticias/NoticiaDetalhada/3602
