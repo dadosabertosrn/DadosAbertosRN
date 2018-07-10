@@ -50,7 +50,7 @@ _Para divulgação de novos eventos, divulgar no https://t.me/agendatirn (solici
 
 URL: https://escoladedados.org/2018/06/25/cerveja-com-dados-chega-a-natal-em-julho/
 
-Videos: 
+Videos: https://www.youtube.com/playlist?list=PLLxONs9vR9TEEfaC-yZKbsYAQBoIpoc2d
 
 Palestras: 
 
