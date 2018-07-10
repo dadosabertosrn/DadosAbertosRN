@@ -54,7 +54,11 @@ Videos: https://www.youtube.com/playlist?list=PLLxONs9vR9TEEfaC-yZKbsYAQBoIpoc2d
 
 Palestras: 
 
-Notícias: http://www.brechando.com/2018/07/como-foi-a-primeira-edicao-do-cerveja-com-dados-em-natal/ ; http://www.brechando.com/2018/06/vamos-discutir-jornalismo-com-cerveja-em-natal/
+Notícias: 
+http://www.brechando.com/2018/07/como-foi-a-primeira-edicao-do-cerveja-com-dados-em-natal/ 
+http://www.brechando.com/2018/06/vamos-discutir-jornalismo-com-cerveja-em-natal/
+https://www.meetup.com/pt-BR/Cerveja-com-Dados/events/252003534/
+https://escoladedados.org/2018/06/25/cerveja-com-dados-chega-a-natal-em-julho/
 
 * Lançamento do Índice de Dados Abertos de Natal (18/05/2018)
 
