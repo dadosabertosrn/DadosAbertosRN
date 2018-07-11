@@ -104,10 +104,16 @@ Palestras: http://sigeventos.ufrn.br/eventos/public/evento/opendataday2018/docum
 
 _Lista de produções acadêmicas voltada para dados abertos e/ou controle social no estado ou cidades do Rio Grande do Norte_
 
+### Artigos
+
 * Livro Open Data Day: Dados Abertos Governamentais e Democracia > http://www.labgov.com.br/arquivos
 * Processo Automatizado de ETL para Dados Abertos: Um Estudo de Caso do SUAP e CKAN > https://www.researchgate.net/publication/321171512_Processo_Automatizado_de_ETL_para_Dados_Abertos_Um_Estudo_de_Caso_do_SUAP_e_CKAN
 * A Estratégia para Desenvolvimento do Portal de Dados Abertos da Cidade de Natal > http://smartmetropolis.imd.ufrn.br/workshops/2016/papers/ST2-5.pdf
 * Portal de Dados Abertos da Prefeitura do Natal > http://smartmetropolis.imd.ufrn.br/wp-content/uploads/2017/03/RT3-WP5-middleware-parte3.pdf
+
+### Eventos
+
+* http://confoa.rcaap.pt/2018/
 
 ## Conselhos de Transparência Pública e Combate à Corrupção
 
