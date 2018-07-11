@@ -12,17 +12,29 @@ Manifesto por Dados Abertos no RN (em construção) > https://docs.google.com/do
 Seguimos o seguinte código de conduta (https://github.com/brazil-it-groups/code-of-conduct)
 
 ## Portais de Dados Abertos
-_Lista de portais de dados abertos do RN_
+_Lista de portais de dados abertos do RN, tribunais de contas e nordeste_
 
-### Prefeituras
+### Prefeituras (RN)
 * Dados Abertos de Natal > http://dados.natal.br/
 
-### Instituições de Ensino
+### Instituições de Ensino (RN)
 * Dados Abertos da UFRN > http://dados.ufrn.br/
 * Dados Abertos do IFRN > https://dados.ifrn.edu.br/
 * Dados Abertos da UFERSA > http://dadosabertos.ufersa.edu.br/
 
-### Câmaras Municipais
+### Câmaras Municipais (RN)
+
+### Tribunais de Contas
+
+* TCE/RN > http://apidadosabertos.tce.rn.gov.br/
+
+* TCE/RS > http://dados.tce.rs.gov.br/
+* TCE/ES > http://dados.es.gov.br/dataset?organization=tce-tribunal-de-contas-do-estado-do-espirito-santo
+* TCE/PE > https://www.tce.pe.gov.br/internet/index.php/dados-abertos
+
+### Nordeste
+
+* Refice > http://dados.recife.pe.gov.br/
 
 ## Plano de Dados Abertos
 _Lista dos planos de dados abertos do RN_
