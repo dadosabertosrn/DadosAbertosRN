@@ -24,13 +24,9 @@ _Lista de portais de dados abertos do RN, tribunais de contas e nordeste_
 
 ### Câmaras Municipais (RN)
 
-### Tribunais de Contas
+### Tribunal de Contas (RN)
 
 * TCE/RN > http://apidadosabertos.tce.rn.gov.br/
-
-* TCE/RS > http://dados.tce.rs.gov.br/
-* TCE/ES > http://dados.es.gov.br/dataset?organization=tce-tribunal-de-contas-do-estado-do-espirito-santo
-* TCE/PE > https://www.tce.pe.gov.br/internet/index.php/dados-abertos
 
 ### Nordeste
 
