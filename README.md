@@ -48,7 +48,7 @@ _Lista de projetos desenvolvidos no RN com foco em dados abertos e/ou controle s
 * Fala Parnamirim! > Controle Social > https://play.google.com/store/apps/details?id=br.com.falaparnamirim.app
 * Open Data Processor > Ferramentas > http://opendataprocessor.com/
 
-## Eventos
+## Eventos (RN)
 
 _Lista de eventos realizados voltados para dados abertos e/ou controle social no estado ou cidades do Rio Grande do Norte_
 
@@ -96,7 +96,7 @@ Videos: https://www.youtube.com/watch?v=hOaZ1NRauuc&list=PLGGmw0KAzihA9816hShgOY
 
 Palestras: http://sigeventos.ufrn.br/eventos/public/evento/opendataday2018/documentos/view
 
-## Produção acadêmica
+## Produção acadêmica (RN)
 
 _Lista de produções acadêmicas voltada para dados abertos e/ou controle social no estado ou cidades do Rio Grande do Norte_
 
