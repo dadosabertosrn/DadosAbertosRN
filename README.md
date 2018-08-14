@@ -39,6 +39,10 @@ _Lista dos planos de dados abertos do RN_
 * PDA IFRN (2017-2019) > http://portal.ifrn.edu.br/conselhos/consup/resolucoes/2017/resolucao-no-21-2017/at_download/file
 * PDA UFERSA (2016-2018) > https://documentos.ufersa.edu.br/wp-content/uploads/sites/79/2016/11/PDA_PLANO_DE_DADOS_ABERTOS-UFERSA-2016-2018-1.pdf
 
+## Políticas de Dados Abertos (Estadual/Municipal)
+
+* RS > http://www.al.rs.gov.br/filerepository/repLegis/arquivos/DEC%2053.523.pdf
+
 
 ## Projetos de dados abertos e/ou controle social com foco no Estado e/ou Cidades do RN ou criados pela comunidade
 
