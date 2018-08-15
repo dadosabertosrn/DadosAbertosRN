@@ -120,6 +120,7 @@ _Lista de produções acadêmicas voltada para dados abertos e/ou controle socia
 
 * GO	> http://www.transparencia.go.gov.br/portaldatransparencia/institucional/conselho-de-transparencia-publica-e-combate-a-corrupcao
 * CGU	> http://www.cgu.gov.br/assuntos/transparencia-publica/conselho-da-transparencia
+      > http://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2018/Decreto/D9468.htm 
 * PB	> http://transparencia.pb.gov.br/conselhos-estaduais/ctpcc
 * ES	> https://secont.es.gov.br/conselho-de-transparencia
 
