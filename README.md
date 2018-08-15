@@ -42,7 +42,8 @@ _Lista dos planos de dados abertos do RN_
 ## Políticas de Dados Abertos (Estadual/Municipal)
 
 * RS > http://www.al.rs.gov.br/filerepository/repLegis/arquivos/DEC%2053.523.pdf
-
+* TJDFT > https://www.tjdft.jus.br/publicacoes/publicacoes-oficiais/portarias-conjuntas-gpr-e-cg/2018/portaria-conjunta-32-de-17-04-2018
+* DF> http://www.sinj.df.gov.br/sinj/Norma/2a90db6875624a65936a47e18e1c337b/exec_dec_38354_2017.html
 
 ## Projetos de dados abertos e/ou controle social com foco no Estado e/ou Cidades do RN ou criados pela comunidade
 
