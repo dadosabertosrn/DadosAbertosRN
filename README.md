@@ -111,6 +111,7 @@ _Lista de produções acadêmicas voltada para dados abertos e/ou controle socia
 * Processo Automatizado de ETL para Dados Abertos: Um Estudo de Caso do SUAP e CKAN > https://www.researchgate.net/publication/321171512_Processo_Automatizado_de_ETL_para_Dados_Abertos_Um_Estudo_de_Caso_do_SUAP_e_CKAN
 * A Estratégia para Desenvolvimento do Portal de Dados Abertos da Cidade de Natal > http://smartmetropolis.imd.ufrn.br/workshops/2016/papers/ST2-5.pdf
 * Portal de Dados Abertos da Prefeitura do Natal > http://smartmetropolis.imd.ufrn.br/wp-content/uploads/2017/03/RT3-WP5-middleware-parte3.pdf
+* O papel do legislativo na definição da agenda governamental: análise da produção legislativa na Assembleia do RN > https://repositorio.ufrn.br/jspui/handle/123456789/25553
 
 ### Eventos
 
