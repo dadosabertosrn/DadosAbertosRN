@@ -52,6 +52,7 @@ _Lista de projetos desenvolvidos no RN com foco em dados abertos e/ou controle s
 * PotyBus > Mobilidade > http://www.potybus.com.br/
 * Fala Parnamirim! > Controle Social > https://play.google.com/store/apps/details?id=br.com.falaparnamirim.app
 * Open Data Processor > Ferramentas > http://opendataprocessor.com/
+* Solucao Online De Licitacao > Negócios > https://github.com/SolucaoOnlineDeLicitacao
 
 ## Eventos (RN)
 
