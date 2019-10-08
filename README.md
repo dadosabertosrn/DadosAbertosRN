@@ -9,15 +9,19 @@ Canal oficial no Telegram (https://t.me/dadosabertosrn)
 Manifesto por Dados Abertos no RN (em construção) > https://docs.google.com/document/d/1ZFteWtfaxR-9Hr6i3g0C7dsu6wx3WaQJnr6nfq6rV7c/edit?usp=sharing
 
 ## Regras
+
 Seguimos o seguinte código de conduta (https://github.com/brazil-it-groups/code-of-conduct)
 
 ## Portais de Dados Abertos
+
 _Lista de portais de dados abertos do RN, tribunais de contas e nordeste_
 
 ### Prefeituras (RN)
+
 * Dados Abertos de Natal > http://dados.natal.br/
 
 ### Instituições de Ensino (RN)
+
 * Dados Abertos da UFRN > http://dados.ufrn.br/
 * Dados Abertos do IFRN > https://dados.ifrn.edu.br/
 * Dados Abertos da UFERSA > http://dadosabertos.ufersa.edu.br/
@@ -30,9 +34,12 @@ _Lista de portais de dados abertos do RN, tribunais de contas e nordeste_
 
 ### Nordeste
 
-* Refice > http://dados.recife.pe.gov.br/
+* Fortaleza > http://dados.fortaleza.ce.gov.br/
+* João Pessoa > https://transparencia.joaopessoa.pb.gov.br/#/dados-abertos
+* Recife > http://dados.recife.pe.gov.br/
 
 ## Plano de Dados Abertos
+
 _Lista dos planos de dados abertos do RN_
 
 * PDA UFRN (2016-2018) > http://www.ufrn.br/resources/documentos/planodedadosabertos/Plano-PDA-7out2016.pdf
@@ -120,11 +127,12 @@ _Lista de produções acadêmicas voltada para dados abertos e/ou controle socia
 
 ## Conselhos de Transparência Pública e Combate à Corrupção
 
-* GO	> http://www.transparencia.go.gov.br/portaldatransparencia/institucional/conselho-de-transparencia-publica-e-combate-a-corrupcao
-* CGU	> http://www.cgu.gov.br/assuntos/transparencia-publica/conselho-da-transparencia
+* GO    > http://www.transparencia.go.gov.br/portaldatransparencia/institucional/conselho-de-transparencia-publica-e-combate-a-corrupcao
+* CGU    > http://www.cgu.gov.br/assuntos/transparencia-publica/conselho-da-transparencia
+  
       > http://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2018/Decreto/D9468.htm 
-* PB	> http://transparencia.pb.gov.br/conselhos-estaduais/ctpcc
-* ES	> https://secont.es.gov.br/conselho-de-transparencia
+* PB    > http://transparencia.pb.gov.br/conselhos-estaduais/ctpcc
+* ES    > https://secont.es.gov.br/conselho-de-transparencia
 
 ## Grupos semelhantes
 
@@ -133,4 +141,5 @@ _Lista de produções acadêmicas voltada para dados abertos e/ou controle socia
 * Canal no Facebook (https://www.facebook.com/groups/dadosabertos/)
 
 ## Contribuir
+
 Crie um novo [Issue](https://github.com/dados-abertos-rn/DadosAbertosRN/issues) ou [Pull Request](https://github.com/dados-abertos-rn/DadosAbertosRN/pulls) com a url que deseja adicionar.
