@@ -145,9 +145,9 @@ _Lista de produções acadêmicas voltada para dados abertos e/ou controle socia
 
 ## Grupos semelhantes
 
-   - [Canal no Telegram](https://t.me/dadosabertos)
-   - [Canal no Whatsapp](https://chat.whatsapp.com/L2QYVTwjViJ9BOU3hZSt7M)
-   - [Canal no Facebook](https://www.facebook.com/groups/dadosabertos/)
+   - [Dados Abertos - Telegram](https://t.me/dadosabertos)
+   - [Dados Abertos - Facebook](https://www.facebook.com/groups/dadosabertos/)
+   - [We <3 Data - Whatsapp](http://bit.ly/DataScienceWhatsApp6)
 
 ## Contribuir
 
