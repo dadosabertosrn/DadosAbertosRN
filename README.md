@@ -147,7 +147,7 @@ _Lista de produções acadêmicas voltada para dados abertos e/ou controle socia
 
    - [Dados Abertos - Telegram](https://t.me/dadosabertos)
    - [Dados Abertos - Facebook](https://www.facebook.com/groups/dadosabertos/)
-   - [We <3 Data - Whatsapp](http://bit.ly/DataScienceWhatsApp6)
+   - [We <3 Data - Telegram](https://t.me/we_data)
 
 ## Contribuir
 
