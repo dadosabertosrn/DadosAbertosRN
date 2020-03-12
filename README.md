@@ -2,7 +2,7 @@
 
 ## Sobre o grupo
 
-Grupo de discussão sobre o ecossistema de dados abertos e controle social no estado do Rio Grande do Norte.
+_Grupo de discussão sobre o ecossistema de dados abertos e controle social no estado do Rio Grande do Norte._
 
 [Canal oficial no Telegram](https://t.me/dadosabertosrn)
 
@@ -96,7 +96,7 @@ _Para divulgação de novos eventos, divulgar no Telegram do [AgendaTI](https://
 
  - [Estudo da FGV aponta que Natal tem pior índice de dados abertos](https://www.blogdobg.com.br/estudo-da-fgv-aponta-que-natal-tem-pior-indice-de-dados-abertos/)
 
- - [laboratorio da UFRN e TCE lancam relatorio sobre a cidade de Natal](http://nominuto.com/noticias/cidades/laboratorio-da-ufrn-e-tce-lancam-relatorio-sobre-a-cidade-de-natal/169361/)
+ - [Laboratorio da UFRN e TCE lancam relatorio sobre a cidade de Natal](http://nominuto.com/noticias/cidades/laboratorio-da-ufrn-e-tce-lancam-relatorio-sobre-a-cidade-de-natal/169361/)
 
 - [Natal tem pior índice de dados abertos em estudo da FGV](https://g1.globo.com/rn/rio-grande-do-norte/noticia/natal-tem-pior-indice-de-dados-abertos-em-estudo-da-fgv.ghtml)
 
