@@ -73,33 +73,32 @@ _Para divulgação de novos eventos, divulgar no https://t.me/agendatirn (solici
 
      - [Videos](https://www.youtube.com/playlist?list=PLLxONs9vR9TEEfaC-yZKbsYAQBoIpoc2d)
 
-Palestras: 
 
 Notícias: 
 
-http://www.brechando.com/2018/07/como-foi-a-primeira-edicao-do-cerveja-com-dados-em-natal/ 
+   - [como foi a primeira edicao do cerveja com dados em natal](http://www.brechando.com/2018/07/como-foi-a-primeira-edicao-do-cerveja-com-dados-em-natal/) 
 
-http://www.brechando.com/2018/06/vamos-discutir-jornalismo-com-cerveja-em-natal/
+   - [vamos discutir jornalismo com cerveja em natal](http://www.brechando.com/2018/06/vamos-discutir-jornalismo-com-cerveja-em-natal/)
 
-https://www.meetup.com/pt-BR/Cerveja-com-Dados/events/252003534/
+   - [Cerveja com Dados Natal - Julho](https://www.meetup.com/pt-BR/Cerveja-com-Dados/events/252003534/)
 
-https://escoladedados.org/2018/06/25/cerveja-com-dados-chega-a-natal-em-julho/
+   - [cerveja-com-dados-chega-a-natal-em-julho](https://escoladedados.org/2018/06/25/cerveja-com-dados-chega-a-natal-em-julho/)
 
-* Lançamento do Índice de Dados Abertos de Natal (18/05/2018)
+#### Lançamento do Índice de Dados Abertos de Natal (18/05/2018)
 
 [URL](http://www.tce.rn.gov.br/Noticias/NoticiaDetalhada/3602)
 
-[Palestras e Relatório]](http://www.labgov.com.br/arquivos)
+[Palestras e Relatório](http://www.labgov.com.br/arquivos)
 
-Notícias:
+#### Notícias:
 
-http://www.tce.rn.gov.br/Noticias/NoticiaDetalhada/3602
+- [TCE sedia evento para lançar relatório sobre dados abertos na cidade de Natal em parceria com a UFRN](http://www.tce.rn.gov.br/Noticias/NoticiaDetalhada/3602)
 
-https://www.blogdobg.com.br/estudo-da-fgv-aponta-que-natal-tem-pior-indice-de-dados-abertos/
+ - [Estudo da FGV aponta que Natal tem pior índice de dados abertos](https://www.blogdobg.com.br/estudo-da-fgv-aponta-que-natal-tem-pior-indice-de-dados-abertos/)
 
-http://nominuto.com/noticias/cidades/laboratorio-da-ufrn-e-tce-lancam-relatorio-sobre-a-cidade-de-natal/169361/
+ - [laboratorio da UFRN e TCE lancam relatorio sobre a cidade de Natal](http://nominuto.com/noticias/cidades/laboratorio-da-ufrn-e-tce-lancam-relatorio-sobre-a-cidade-de-natal/169361/)
 
-https://g1.globo.com/rn/rio-grande-do-norte/noticia/natal-tem-pior-indice-de-dados-abertos-em-estudo-da-fgv.ghtml
+- [Natal tem pior índice de dados abertos em estudo da FGV](https://g1.globo.com/rn/rio-grande-do-norte/noticia/natal-tem-pior-indice-de-dados-abertos-em-estudo-da-fgv.ghtml)
 
 * Open Data Day Natal 2018 (01-03/03/2018)
 
