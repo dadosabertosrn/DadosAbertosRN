@@ -100,7 +100,7 @@ Notícias:
 
 - [Natal tem pior índice de dados abertos em estudo da FGV](https://g1.globo.com/rn/rio-grande-do-norte/noticia/natal-tem-pior-indice-de-dados-abertos-em-estudo-da-fgv.ghtml)
 
-* Open Data Day Natal 2018 (01-03/03/2018)
+### Open Data Day Natal 2018 (01-03/03/2018)
 
 - [URL](http://sigeventos.ufrn.br/eventos/public/evento/opendataday2018/)
 
@@ -108,7 +108,7 @@ Notícias:
 
 - [Palestras](http://sigeventos.ufrn.br/eventos/public/evento/opendataday2018/documentos/view)
 
-* Open Data Day Natal 2020 (06/03/2020 e 07/03/2020
+### Open Data Day Natal 2020 (06/03/2020 e 07/03/2020)
 
 - [URL]()
 
