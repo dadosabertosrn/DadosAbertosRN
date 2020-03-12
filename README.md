@@ -65,30 +65,30 @@ _Lista de projetos desenvolvidos no RN com foco em dados abertos e/ou controle s
 
 _Lista de eventos realizados voltados para dados abertos e/ou controle social no estado ou cidades do Rio Grande do Norte_
 
-_Para divulgação de novos eventos, divulgar no https://t.me/agendatirn (solicitar inclusão no https://t.me/potilivre)_
+_Para divulgação de novos eventos, divulgar no Telegram do [AgendaTI](https://t.me/agendatirn) (solicitar inclusão no Telegram do [PotiLivre](https://t.me/potilivre))_
 
-* Cerveja com Dados - Natal (04/07/2018)
+#### Cerveja com Dados - Natal (04/07/2018)
 
-     - [URL](https://escoladedados.org/2018/06/25/cerveja-com-dados-chega-a-natal-em-julho/)
+  - [URL](https://escoladedados.org/2018/06/25/cerveja-com-dados-chega-a-natal-em-julho/)
 
-     - [Videos](https://www.youtube.com/playlist?list=PLLxONs9vR9TEEfaC-yZKbsYAQBoIpoc2d)
+  - [Videos](https://www.youtube.com/playlist?list=PLLxONs9vR9TEEfaC-yZKbsYAQBoIpoc2d)
 
 
-Notícias: 
+#### Notícias: 
 
-   - [como foi a primeira edicao do cerveja com dados em natal](http://www.brechando.com/2018/07/como-foi-a-primeira-edicao-do-cerveja-com-dados-em-natal/) 
+  - [Como foi a primeira edicao do cerveja com dados em natal](http://www.brechando.com/2018/07/como-foi-a-primeira-edicao-do-cerveja-com-dados-em-natal/) 
 
-   - [vamos discutir jornalismo com cerveja em natal](http://www.brechando.com/2018/06/vamos-discutir-jornalismo-com-cerveja-em-natal/)
+  - [Vamos discutir jornalismo com cerveja em natal](http://www.brechando.com/2018/06/vamos-discutir-jornalismo-com-cerveja-em-natal/)
 
-   - [Cerveja com Dados Natal - Julho](https://www.meetup.com/pt-BR/Cerveja-com-Dados/events/252003534/)
+  - [Cerveja com Dados Natal - Julho](https://www.meetup.com/pt-BR/Cerveja-com-Dados/events/252003534/)
 
-   - [cerveja-com-dados-chega-a-natal-em-julho](https://escoladedados.org/2018/06/25/cerveja-com-dados-chega-a-natal-em-julho/)
+  - [Cerveja com dados chega a Natal em julho](https://escoladedados.org/2018/06/25/cerveja-com-dados-chega-a-natal-em-julho/)
 
 #### Lançamento do Índice de Dados Abertos de Natal (18/05/2018)
 
-[URL](http://www.tce.rn.gov.br/Noticias/NoticiaDetalhada/3602)
+ - [URL](http://www.tce.rn.gov.br/Noticias/NoticiaDetalhada/3602)
 
-[Palestras e Relatório](http://www.labgov.com.br/arquivos)
+ - [Palestras e Relatório](http://www.labgov.com.br/arquivos)
 
 #### Notícias:
 
@@ -100,7 +100,7 @@ Notícias:
 
 - [Natal tem pior índice de dados abertos em estudo da FGV](https://g1.globo.com/rn/rio-grande-do-norte/noticia/natal-tem-pior-indice-de-dados-abertos-em-estudo-da-fgv.ghtml)
 
-### Open Data Day Natal 2018 (01-03/03/2018)
+### Open Data Day Natal 2018 (01/03/2018 a 03/03/2018)
 
 - [URL](http://sigeventos.ufrn.br/eventos/public/evento/opendataday2018/)
 
@@ -125,10 +125,10 @@ _Lista de produções acadêmicas voltada para dados abertos e/ou controle socia
 ### Artigos
 
    - [Livro Open Data Day: Dados Abertos Governamentais e Democracia >](http://www.labgov.com.br/arquivos)
-   - [Processo Automatizado de ETL para Dados Abertos: Um Estudo de Caso do SUAP e CKAN >(https://www.researchgate.net/publication/321171512_Processo_Automatizado_de_ETL_para_Dados_Abertos_Um_Estudo_de_Caso_do_SUAP_e_CKAN
-   - [A Estratégia para Desenvolvimento do Portal de Dados Abertos da Cidade de Natal >](http://smartmetropolis.imd.ufrn.br/workshops/2016/papers/ST2-5.pdf
+   - [Processo Automatizado de ETL para Dados Abertos: Um Estudo de Caso do SUAP e CKAN](https://www.researchgate.net/publication/321171512_Processo_Automatizado_de_ETL_para_Dados_Abertos_Um_Estudo_de_Caso_do_SUAP_e_CKAN)
+   - [A Estratégia para Desenvolvimento do Portal de Dados Abertos da Cidade de Natal >](http://smartmetropolis.imd.ufrn.br/workshops/2016/papers/ST2-5.pdf)
    - [Portal de Dados Abertos da Prefeitura do Natal >](http://smartmetropolis.imd.ufrn.br/wp-content/uploads/2017/03/RT3-WP5-middleware-parte3.pdf)
-   - [O papel do legislativo na definição da agenda governamental: análise da produção legislativa na Assembleia do RN > ](https://repositorio.ufrn.br/jspui/handle/123456789/25553)
+   - [O papel do legislativo na definição da agenda governamental: análise da produção legislativa na Assembleia do RN >](https://repositorio.ufrn.br/jspui/handle/123456789/25553)
 
 ### Eventos
 
